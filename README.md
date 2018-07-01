@@ -1,2 +1,3 @@
-# Project_Escape
-Site de Project Escape, jeu développé sous Unity 5.3
+# Project_Reminescence
+Site de Project Reminescence.
+Jeu narratif utilisant des caractéristiques de point'n'click et de RPG.
